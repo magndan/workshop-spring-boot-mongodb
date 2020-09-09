@@ -1,0 +1,5 @@
+package com.magndan.workshopmongo.repository;
+
+public interface UserRepository {
+
+}
