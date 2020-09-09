@@ -23,7 +23,8 @@ public class UserResource {
 	@RequestMapping(method=RequestMethod.GET) 
 	public ResponseEntity<List<UserDTO>> findAll() {
 		List<User> list = service.findAll();
+		@SuppressWarnings("unchecked")
 		List<UserDTO> listDto = (List<UserDTO>) list.stream().map(x -> new UserDTO(x)).collect(Collectors.toList());
-		return ResponseEntity.ok().body(listDto);
+		return ResponseEntity.ok().body(list);
 	}
 }
