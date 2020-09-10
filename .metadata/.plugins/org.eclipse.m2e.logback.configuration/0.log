@@ -1197,3 +1197,133 @@ Caused by: java.lang.Exception: File not found: /home/magndan/workspace-spring-b
 2020-09-10 15:17:34,853 [Worker-84: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-10 15:17:34,854 [Worker-84: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-10 15:17:34,854 [Worker-84: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:38:09,596 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:38:09,598 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:38:09,599 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:38:09,599 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:38:09,601 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:38:09,601 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:43:48,952 [Worker-90: Building Workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:43:48,955 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:43:48,955 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:43:48,956 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:43:48,958 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:43:48,958 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:45:08,681 [Worker-90: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:45:08,685 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:45:08,685 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:45:08,686 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:45:08,689 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:45:08,689 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:50:29,187 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:50:29,191 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:50:29,192 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:50:29,193 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:50:29,195 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:50:29,195 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:50:46,425 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:50:46,428 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:50:46,428 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:50:46,429 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:50:46,430 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:50:46,430 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:51:27,675 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:51:27,677 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:51:27,678 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:51:27,678 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:51:27,680 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:51:27,681 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:51:40,556 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:51:40,559 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:51:40,560 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:51:40,561 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:51:40,563 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:51:40,563 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:53:27,447 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:53:27,452 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:53:27,452 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:53:27,453 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:53:27,454 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:53:27,454 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 15:58:29,929 [Worker-96: Launching workshopmongo - WorkshopmongoApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 15:58:29,932 [Worker-96: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:58:29,932 [Worker-96: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 15:58:29,933 [Worker-96: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 15:58:29,934 [Worker-96: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 15:58:29,934 [Worker-96: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 16:19:32,421 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 16:19:32,425 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:19:32,425 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 16:19:32,426 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 16:19:32,428 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:19:32,428 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 16:31:29,034 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 16:31:29,037 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:31:29,038 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 16:31:29,038 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 16:31:29,040 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:31:29,040 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 16:33:42,273 [Worker-106: Launching workshopmongo - WorkshopmongoApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 16:33:42,276 [Worker-106: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:33:42,276 [Worker-106: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 16:33:42,277 [Worker-106: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 16:33:42,278 [Worker-106: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:33:42,278 [Worker-106: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 16:58:38,570 [Worker-123: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 16:58:38,573 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:58:38,574 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 16:58:38,574 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 16:58:38,576 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:58:38,576 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 16:59:42,709 [Worker-124: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 16:59:42,713 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:59:42,713 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 16:59:42,714 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 16:59:42,716 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 16:59:42,716 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:03:31,980 [Worker-124: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 17:03:31,983 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:03:31,984 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:03:31,985 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:03:31,986 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:03:31,986 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:10:06,519 [Worker-127: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 17:10:06,523 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:10:06,524 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:10:06,525 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:10:06,527 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:10:06,527 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:11:44,260 [Worker-131: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 17:11:44,264 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:11:44,265 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:11:44,265 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:11:44,267 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:11:44,268 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:14:06,680 [Worker-130: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 17:14:06,683 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:14:06,683 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:14:06,684 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:14:06,686 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:14:06,686 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:16:23,980 [Worker-133: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-09-10 17:16:23,984 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:16:23,985 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:16:23,985 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:16:23,987 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:16:23,987 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:17:09,742 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-10 17:24:19,092 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:24:19,099 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:24:19,113 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:24:19,118 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:24:19,118 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:25:53,148 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:25:53,151 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:25:53,153 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:25:53,156 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:25:53,156 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
+2020-09-10 17:32:49,508 [Worker-15: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:32:49,510 [Worker-15: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-10 17:32:49,511 [Worker-15: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-10 17:32:49,514 [Worker-15: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-10 17:32:49,514 [Worker-15: Launching workshopmongo - WorkshopmongoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/magndan/workspace-spring-boot3/workshopmongo/src/test/resources
