@@ -50,8 +50,8 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="394"/>
-		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_X_ORIGIN" value="154"/>
+		<item key="DIALOG_Y_ORIGIN" value="-256"/>
 		<item key="DIALOG_WIDTH" value="652"/>
 		<item key="DIALOG_HEIGHT" value="786"/>
 		<item key="DIALOG_FONT_NAME" value="1|Noto Sans|10.5|0|GTK|1|"/>

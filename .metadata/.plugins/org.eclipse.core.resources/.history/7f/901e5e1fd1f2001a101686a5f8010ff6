@@ -1,0 +1,5 @@
+package com.magndan.workshopmongo.services.exception;
+
+public class ObjectNotFoundException {
+
+}

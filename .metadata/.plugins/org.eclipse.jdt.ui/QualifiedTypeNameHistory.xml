@@ -10,6 +10,7 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="com.magndan.workshopmongo.domain.User"/>
     <fullyQualifiedTypeName name="com.magndan.workshopmongo.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.magndan.workshopmongo.domain.User"/>
 </qualifiedTypeNameHistroy>
