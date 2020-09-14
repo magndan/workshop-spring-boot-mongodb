@@ -19,7 +19,8 @@
     <fullyQualifiedTypeName name="org.springframework.web.servlet.support.ServletUriComponentsBuilder"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.util.URI"/>
     <fullyQualifiedTypeName name="java.net.URI"/>
-    <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="com.magndan.workshopmongo.domain.Post"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.magndan.workshopmongo.dto.CommentDTO"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package com.magndan.workshopmongo.dto;
+
+public class CommentDTO {
+
+}
