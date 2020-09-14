@@ -12,7 +12,7 @@ import com.magndan.workshopmongo.repository.UserRepository;
 import com.magndan.workshopmongo.services.exception.ObjectNotFoundException;
 
 @Service
-public class UserService {
+public class PostService2 {
 
 	@Autowired
 	private UserRepository repo;
@@ -44,7 +44,7 @@ public class UserService {
 	private void updateData(User newObj, User obj) {
 		newObj.setName(obj.getName());
 		newObj.setEmail(obj.getEmail());
-	} 
+	}Endpoint para retornar os posts de um usuário
 	
 	public User fromDTO(UserDTO objDto) {
 		return new User(objDto.getId(), objDto.getName(), objDto.getEmail());
