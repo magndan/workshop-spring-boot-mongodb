@@ -24,5 +24,7 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.net.URL"/>
     <fullyQualifiedTypeName name="com.magndan.workshopmongo.resources.util.URL"/>
+    <fullyQualifiedTypeName name="com.sun.el.parser.ParseException"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
 </qualifiedTypeNameHistroy>
